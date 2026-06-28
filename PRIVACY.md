@@ -1,0 +1,39 @@
+# Privacy Policy for Quillin'
+
+Last updated: June 27, 2026
+
+**The short version:** Quillin' doesn't collect anything. Your text goes from your browser directly to your chosen AI provider. We never see it.
+
+---
+
+## What Quillin' does with your data
+
+Quillin' is a bring-your-own-key (BYOK) extension. This means:
+
+- Your API keys are stored locally on your device using Chrome's built-in storage. They are never transmitted to us or any third party other than the AI provider you've chosen.
+- Text you submit for grammar checking, rewriting, or translation is sent directly from your browser to your chosen AI provider (Anthropic, OpenAI, Google, xAI, Mistral, Groq, or a local Ollama instance). It does not pass through any Quillin' server because there isn't one.
+- Your standing instructions, rewrite styles, and settings are stored locally on your device. We cannot access them.
+
+## What we collect
+
+Nothing. Quillin' has no backend, no analytics, no tracking, and no servers. We do not collect, store, or transmit any personal data.
+
+## Third-party AI providers
+
+When you use Quillin', your text is sent to whichever AI provider you have configured. Each provider has their own privacy policy:
+
+- Anthropic (Claude): anthropic.com/privacy
+- OpenAI (GPT): openai.com/privacy
+- Google (Gemini): policies.google.com/privacy
+- xAI (Grok): x.ai/privacy
+- Mistral: mistral.ai/privacy
+- Groq: groq.com/privacy
+
+## Changes to this policy
+
+If this policy changes materially, we will update the date at the top of this page.
+
+## Contact
+
+LJY Studios LLC
+admin@ljystudios.com
