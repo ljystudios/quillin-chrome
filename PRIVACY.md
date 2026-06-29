@@ -1,6 +1,6 @@
-# Privacy Policy for Quillin'
+# Privacy Policy for Quillin' Chrome Extension
 
-Last updated: June 27, 2026
+Last updated: June 29, 2026
 
 **The short version:** Quillin' doesn't collect anything. Your text goes from your browser directly to your chosen AI provider. We never see it.
 
